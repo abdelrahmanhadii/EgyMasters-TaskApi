@@ -1,0 +1,9 @@
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DTOs\obj\Debug\netcoreapp2.2\DTOs.csproj.CoreCompileInputs.cache
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DTOs\obj\Debug\netcoreapp2.2\DTOs.AssemblyInfoInputs.cache
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DTOs\obj\Debug\netcoreapp2.2\DTOs.AssemblyInfo.cs
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DTOs\bin\Debug\netcoreapp2.2\DTOs.deps.json
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DTOs\bin\Debug\netcoreapp2.2\DTOs.dll
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DTOs\bin\Debug\netcoreapp2.2\DTOs.pdb
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DTOs\obj\Debug\netcoreapp2.2\DTOs.dll
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DTOs\obj\Debug\netcoreapp2.2\DTOs.pdb
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DTOs\obj\Debug\netcoreapp2.2\DTOs.csprojAssemblyReference.cache

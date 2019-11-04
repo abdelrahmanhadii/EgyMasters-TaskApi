@@ -1,0 +1,9 @@
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Logger\bin\Debug\netcoreapp2.2\Logger.deps.json
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Logger\bin\Debug\netcoreapp2.2\Logger.dll
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Logger\bin\Debug\netcoreapp2.2\Logger.pdb
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Logger\obj\Debug\netcoreapp2.2\Logger.csproj.CoreCompileInputs.cache
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Logger\obj\Debug\netcoreapp2.2\Logger.AssemblyInfoInputs.cache
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Logger\obj\Debug\netcoreapp2.2\Logger.AssemblyInfo.cs
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Logger\obj\Debug\netcoreapp2.2\Logger.dll
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Logger\obj\Debug\netcoreapp2.2\Logger.pdb
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Logger\obj\Debug\netcoreapp2.2\Logger.csprojAssemblyReference.cache

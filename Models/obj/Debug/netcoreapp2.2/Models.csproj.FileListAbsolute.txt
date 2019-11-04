@@ -1,0 +1,12 @@
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Models\bin\Debug\netcoreapp2.2\Models.deps.json
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Models\bin\Debug\netcoreapp2.2\Models.dll
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Models\bin\Debug\netcoreapp2.2\Models.pdb
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Models\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Models\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Models\obj\Debug\netcoreapp2.2\Models.csproj.CoreCompileInputs.cache
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfoInputs.cache
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfo.cs
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Models\obj\Debug\netcoreapp2.2\Models.csproj.CopyComplete
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Models\obj\Debug\netcoreapp2.2\Models.dll
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Models\obj\Debug\netcoreapp2.2\Models.pdb
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Models\obj\Debug\netcoreapp2.2\Models.csprojAssemblyReference.cache

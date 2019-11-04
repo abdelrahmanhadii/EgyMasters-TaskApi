@@ -1,0 +1,14 @@
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Mappers\bin\Debug\netcoreapp2.2\Mappers.deps.json
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Mappers\bin\Debug\netcoreapp2.2\Mappers.dll
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Mappers\obj\Debug\netcoreapp2.2\Mappers.csproj.CoreCompileInputs.cache
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Mappers\obj\Debug\netcoreapp2.2\Mappers.AssemblyInfoInputs.cache
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Mappers\obj\Debug\netcoreapp2.2\Mappers.AssemblyInfo.cs
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Mappers\bin\Debug\netcoreapp2.2\Mappers.pdb
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Mappers\bin\Debug\netcoreapp2.2\DTOs.dll
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Mappers\bin\Debug\netcoreapp2.2\Models.dll
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Mappers\bin\Debug\netcoreapp2.2\DTOs.pdb
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Mappers\bin\Debug\netcoreapp2.2\Models.pdb
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Mappers\obj\Debug\netcoreapp2.2\Mappers.csprojAssemblyReference.cache
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Mappers\obj\Debug\netcoreapp2.2\Mappers.csproj.CopyComplete
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Mappers\obj\Debug\netcoreapp2.2\Mappers.dll
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\Mappers\obj\Debug\netcoreapp2.2\Mappers.pdb

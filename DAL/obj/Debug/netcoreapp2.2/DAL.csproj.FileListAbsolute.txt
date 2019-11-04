@@ -1,0 +1,12 @@
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DAL\bin\Debug\netcoreapp2.2\DAL.deps.json
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DAL\bin\Debug\netcoreapp2.2\DAL.dll
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DAL\bin\Debug\netcoreapp2.2\DAL.pdb
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DAL\bin\Debug\netcoreapp2.2\Models.dll
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DAL\bin\Debug\netcoreapp2.2\Models.pdb
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DAL\obj\Debug\netcoreapp2.2\DAL.csproj.CoreCompileInputs.cache
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfoInputs.cache
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DAL\obj\Debug\netcoreapp2.2\DAL.AssemblyInfo.cs
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DAL\obj\Debug\netcoreapp2.2\DAL.csproj.CopyComplete
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DAL\obj\Debug\netcoreapp2.2\DAL.dll
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DAL\obj\Debug\netcoreapp2.2\DAL.pdb
+F:\EgyMastersTaaskRepo\EgyMastersTechnicalTask\DAL\obj\Debug\netcoreapp2.2\DAL.csprojAssemblyReference.cache
